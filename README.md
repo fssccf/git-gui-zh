@@ -5,6 +5,8 @@
 
     重新打开软件，你就会发现软件界面已经变成了熟悉的中文了。
 
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1007/110550_f95775ca_5264686.png "20200624132420109.png")
+
 
 1. 刚刚接触 Git 时，通篇阅读了官方的 [Pro Git Book](https://git-scm.com/book/zh/v2) ，实际操作时命令行一个也没记住，就直接使用了Git-GUI。
 
