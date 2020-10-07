@@ -4,6 +4,7 @@
     下载下来之后，将其放到/mingw64/share/git-gui/lib/msgs/zh_cn.msg，有可能Git的安装路径下面没有msgs这个文件夹，那么需要自己创建之后再将这个汉化包来放进去。这样就算是汉化完了。
 
     重新打开软件，你就会发现软件界面已经变成了熟悉的中文了。
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1007/110740_ff8c9696_5264686.png "20191102111109755.png")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1007/110550_f95775ca_5264686.png "20200624132420109.png")
 
